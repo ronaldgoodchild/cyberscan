@@ -4,6 +4,11 @@ A free, all-in-one **Windows security audit and hardening dashboard** written in
 
 > "TITAN ULTIMATE" edition v10.0 - 110+ checks in a single script. Built by a working IT technician for quick, repeatable health-and-security checks on client and home-lab machines.
 
+## Screenshots
+
+![CyberScan dashboard: ten categories of checks in one window](docs/screenshots/dashboard.png)
+*CyberScan dashboard: ten categories of checks in one window*
+
 ## What it does
 
 - **110+ operations** in one GUI (Windows Forms) with a live dashboard (CPU / RAM / network gauges)

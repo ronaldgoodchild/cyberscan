@@ -4,7 +4,7 @@ Comment on (or open) an issue first so we don't duplicate work.
 
 ## Good first issues
 - [ ] Split the 3,400-line `cyberscan.ps1` into a module (`.psm1`) with one file per check category
-- [ ] Add screenshots of the dashboard and an example HTML report to the README
+- [x] Add screenshots of the dashboard and an example HTML report to the README
 - [ ] Add a `-Version` switch and a single version constant
 - [ ] Publish to the PowerShell Gallery
 
