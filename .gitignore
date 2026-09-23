@@ -1,0 +1,12 @@
+*.zip
+*.exe
+.vs/
+.claude/
+__pycache__/
+*.pyc
+
+# Runtime data - never commit
+System_Snapshot.txt
+scan_history.json
+undo_log.json
+*.log
